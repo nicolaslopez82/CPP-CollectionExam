@@ -53,7 +53,7 @@ void punto2(){
             presidente.grabarEnDisco();
         }
     }
-
+    listarArchivoPresidentes();
 }
 
 int main() {
